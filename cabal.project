@@ -330,18 +330,6 @@ package ouroboros-consensus-test-infra
   tests: False
   benchmarks: False
 
-package persistent
-  tests: False
-  benchmarks: False
-
-package persistent-sqlite
-  tests: False
-  benchmarks: False
-
-package persistent-template
-  tests: False
-  benchmarks: False
-
 package shelley-spec-ledger-test
   tests: False
   benchmarks: False
