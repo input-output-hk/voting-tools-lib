@@ -41,8 +41,6 @@ library
                      , attoparsec
                      , base16-bytestring
                      , resourcet
-                     , esqueleto
-                     , cardano-db
                      , time
                      , binary
                      , binary-strict
@@ -50,7 +48,6 @@ library
                      , bytestring
                      , cardano-api
                      , cardano-binary
-                     , cardano-db
                      , monad-logger
                      , monoidal-containers
                      , lens-aeson
